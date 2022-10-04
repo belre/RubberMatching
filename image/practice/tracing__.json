@@ -1,0 +1,16 @@
+{
+	"sample" : {
+		"sample_1_LT_groove" : {
+        	"resize_rate" : 1.0
+    	},
+   		"sample_1_RT_groove" : {
+        	"resize_rate" : 1.0
+    	},
+   		"sample_1_LB_groove" : {
+        	"resize_rate" : 1.0
+    	},
+   		"sample_1_RB_groove" : {
+        	"resize_rate" : 1.0
+    	}
+	}
+}

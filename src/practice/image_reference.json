@@ -1,0 +1,9 @@
+{
+    "sample_1_org" : {
+        "background_region" : 
+        [
+            [78, 2202, 708, 534]
+        ],
+        "resize_rate" : 2.0
+    }
+}

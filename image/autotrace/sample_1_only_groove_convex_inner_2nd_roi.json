@@ -1,0 +1,208 @@
+{
+    "round_LT": {
+        "param": [
+            [
+                308.07649202136736,
+                203.94310176201463
+            ],
+            66.648384023304,
+            4.987964889889498,
+            2.9731566017625397
+        ],
+        "region": [
+            208,
+            103,
+            408,
+            303
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_round_LT.bmp",
+        "type": "circle"
+    },
+    "round_RT": {
+        "param": [
+            [
+                1972.6742959361131,
+                809.619882918822
+            ],
+            65.75458584976705,
+            0.7723410579504034,
+            -1.848370639935078
+        ],
+        "region": [
+            1874,
+            710,
+            2071,
+            908
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_round_RT.bmp",
+        "type": "circle"
+    },
+    "round_RB": {
+        "param": [
+            [
+                2008.8761339192329,
+                2717.76789186805
+            ],
+            65.71473104988178,
+            2.2566370946609418,
+            -0.7132555437941633
+        ],
+        "region": [
+            1910,
+            2619,
+            2107,
+            2816
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_round_RB.bmp",
+        "type": "circle"
+    },
+    "round_LB": {
+        "param": [
+            [
+                198.41460732187954,
+                1930.5477919996738
+            ],
+            57.40079649365536,
+            4.0789525104615,
+            0.5591743242342657
+        ],
+        "region": [
+            112,
+            1844,
+            284,
+            2016
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_round_LB.bmp",
+        "type": "circle"
+    },
+    "line_R": {
+        "param": [
+            [
+                0.018474121510544457,
+                2020.0723926837484
+            ],
+            869.0,
+            2640.8182
+        ],
+        "region": [
+            1986,
+            869,
+            2118,
+            2640
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_line_R.bmp",
+        "type": "verticalline"
+    },
+    "line_L": {
+        "param": [
+            [
+                0.021290712745693868,
+                115.5550551219041
+            ],
+            422.53845,
+            1859.6667
+        ],
+        "region": [
+            74,
+            422,
+            205,
+            1859
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_line_L.bmp",
+        "type": "verticalline"
+    },
+    "poly_L": {
+        "param": [
+            [
+                0.0018446904023359603,
+                -1.5195519071604902,
+                438.9148625389339
+            ],
+            211.0,
+            427.0769
+        ],
+        "region": [
+            126,
+            211,
+            200,
+            427
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_poly_L.bmp",
+        "type": "vpoly"
+    },
+    "poly_B2": {
+        "param": [
+            [
+                0.0009955910099249373,
+                -0.8837074014742168,
+                2170.3346127695027
+            ],
+            409.3333,
+            1238.0
+        ],
+        "region": [
+            409,
+            1975,
+            1238,
+            2602
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_poly_B2.bmp",
+        "type": "hpoly"
+    },
+    "poly_B1": {
+        "param": [
+            [
+                -0.0024908343885390906,
+                7.325145781018548,
+                -2596.4586967435657
+            ],
+            1287.0,
+            1496.3333000000002
+        ],
+        "region": [
+            1287,
+            2705,
+            1496,
+            2787
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_poly_B1.bmp",
+        "type": "hpoly"
+    },
+    "line_B": {
+        "param": [
+            [
+                -0.016575706929914384,
+                2814.7332442275724
+            ],
+            1460.6666500000001,
+            1922.0
+        ],
+        "region": [
+            1460,
+            2732,
+            1922,
+            2840
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_line_B.bmp",
+        "type": "hline"
+    },
+    "poly_T1": {
+        "param": [
+            [
+                0.00017491320314256845,
+                -0.01648981288729036,
+                78.3586360541101
+            ],
+            431.85709999999995,
+            1896.3845999999999
+        ],
+        "region": [
+            431,
+            103,
+            1896,
+            676
+        ],
+        "tppath": "tp_sample_1_only_groove_convex_inner_2nd_poly_T1.bmp",
+        "type": "hpoly"
+    }
+}

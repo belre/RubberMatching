@@ -1,0 +1,30 @@
+{
+    "sample_1_LT" : {
+    	"refer" : "sample_1_org",
+    	"roi" : [628, 142, 225, 214],
+    	"resize_rate" : 1.0,
+    	"alpha" : 0.0002,
+    	"attr" : ["background_adj"]
+    },
+    "sample_1_RT" : {
+    	"refer" : "sample_1_org",
+    	"roi" : [2353, 756, 227, 208],
+    	"resize_rate" : 1.0,
+    	"alpha" : 0.0002,
+    	"attr" : ["background_adj"]
+    },
+    "sample_1_LB" : {
+    	"refer" : "sample_1_org",
+    	"roi" : [545, 1927, 191, 193],
+    	"resize_rate" : 1.0,
+    	"alpha" : 0.0002,
+    	"attr" : ["background_adj"]
+    },
+    "sample_1_RB" : {
+    	"refer" : "sample_1_org",
+    	"roi" : [2374, 2708, 228, 212],
+    	"resize_rate" : 1.0,
+    	"alpha" : 0.0002,
+    	"attr" : ["background_adj"]
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"sample" : {
+		"sample_1_only_groove" : {
+        	"resize_rate" : 1.0,
+        	"init_points" : [ [319, 290], [305, 97] ]
+    	}
+	}
+}

@@ -1,0 +1,32 @@
+{
+    "2D_pattern1" : {
+        "background_region" : 
+        [
+            [0, 0, 600, 73],
+            [0, 73, 107, 155]
+        ],
+        "resize_rate" : 2.0
+    }, 
+    "2D_pattern2" : {
+        "background_region" : 
+        [
+            [0, 0, 593, 89]
+        ],
+        "resize_rate" : 2.0
+    },
+    "2D_pattern3" : {
+        "background_region" : 
+        [
+            [0, 0, 117, 30]
+        ],
+        "resize_rate" : 2.0
+    }, 
+    "2D_pattern4" : {
+        "background_region" : 
+        [
+            [0, 97, 140, 371],
+            [143, 444, 583, 36]
+        ],
+        "resize_rate" : 2.0
+    }
+}

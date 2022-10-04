@@ -1,0 +1,12 @@
+{
+	"export_filedir" : "round_res.txt",
+	"reference" : {
+		"viewed_image" : "sample_1_org.bmp"
+	},
+	"sample" : {
+		"round1_high" : {},
+		"round2_high" : {},
+		"round3_high" : {},
+		"round4_high" : {}
+	}
+}

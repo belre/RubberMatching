@@ -1,0 +1,73 @@
+{
+	"reference" : {
+		"viewed_image" : "sample_1_org.bmp",
+		"base_coord" : [465, 75, 2247, 2886]
+	},
+	"sample" : {
+		"sample_1_only_groove_convex_inner_2nd" : {
+			"round_LT" : {
+				"number" : [0, 77, 78, 79],
+				"type" : "circle",
+				"alpha" : 0.0001
+			},
+			"round_RT" : {
+				"number" : [21, 22, 23],
+				"type" : "circle",
+				"alpha" : 0.0001
+			},
+			"round_RB" : {
+				"number" : [42, 43, 44],
+				"type" : "circle",
+				"alpha" : 0.0001
+			}, 
+			"round_LB" : {
+				"number" : [64, 65],
+				"type" : "circle",
+				"alpha" : 0.0001
+			},
+			"line_R" : {
+				"number" : [24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40],
+				"type" : "verticalline",
+				"alpha" : 0.00005
+			}, 
+			"line_L" : {
+				"number" : [66, 67, 68, 69, 70, 71, 72, 73],
+				"type" : "verticalline",
+				"alpha" : 0.00005
+			},
+			"poly_L" : {
+				"number" : [74, 75, 76],
+				"type" : "vpoly",
+				"degree" : 2,
+				"alpha" : 0.0001
+			},
+			"poly_B2" : {
+				"number" : [51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62],
+				"type" : "hpoly",
+				"degree" : 2,
+				"alpha" : 0.00005
+			},
+			"poly_B1" : {
+				"number" : [48, 49],
+				"type" : "hpoly",
+				"degree" : 2,
+				"alpha" : 0.0001
+			},
+			"line_B" : {
+				"number" : [46, 47],
+				"type" : "hline",
+				"alpha" : 0.00005
+			},
+			"poly_T1" : {
+				"number" : [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+				"type" : "hpoly",
+				"degree" : 2,
+				"alpha" : 0.00001,
+				"enable" : true
+			}
+		}
+	},
+	"pcd" : { 
+		"dir" : ".\\pcd\\"
+	}
+}

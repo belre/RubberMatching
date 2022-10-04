@@ -1,0 +1,23 @@
+{
+    "sample_1" : {
+        "background_region" : 
+        [
+            [78, 2202, 708, 534]
+        ],
+        "resize_rate" : 8.0
+    },
+    "sample_2" : {
+        "background_region" : 
+        [
+            [78, 2202, 708, 534]
+        ],
+        "resize_rate" : 8.0
+    },
+    "sample_3" : {
+        "background_region" : 
+        [
+            [78, 2202, 708, 534]
+        ],
+        "resize_rate" : 8.0
+    }
+}

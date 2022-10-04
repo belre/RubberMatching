@@ -1,0 +1,27 @@
+{
+	"reference" : {
+		"filepath" : "tp/shape3.bmp",
+		"imgpath" : "tp/shape2.bmp",
+		"roi" : {
+			"hole1" : [18, 5, 30, 30],
+			"hole2" : [8, 224, 23, 25],
+			"hole3" : [227, 76, 33, 35],
+			"hole4" : [230, 323, 32, 37],
+			"hole1_i" : [24, 98, 23, 24],
+			"hole2_i" : [78, 33, 25, 27],
+			"hole3_i" : [196, 94, 26, 28],
+			"hole4_i" : [122, 233, 25, 24],
+			"hole5_i" : [150, 230, 26, 27],
+			"hole6_i" : [231, 260, 14, 13],
+			"rect1_i" : [47, 118, 170, 22]
+		}
+	},
+	"sample" : {
+		"sample_2_org_resize8" : {
+        	"resize_rate" : 8.0
+    	},
+    	"sample_3_org_resize8" : {
+        	"resize_rate" : 8.0
+    	}
+	}
+}

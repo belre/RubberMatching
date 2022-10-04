@@ -1,0 +1,12 @@
+{
+	"export_filedir" : "round_res.txt",
+	"reference" : {
+		"viewed_image" : "sample_1_resize8.bmp"
+	},
+	"sample" : {
+		"round1" : {},
+		"round2" : {},
+		"round3" : {},
+		"round4" : {}
+	}
+}

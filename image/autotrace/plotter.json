@@ -1,0 +1,10 @@
+{
+	"export_filedir" : "round_res.txt",
+	"reference" : {
+		"viewed_image" : "sample_1_org.bmp"
+	},
+	"sample" : {
+		"sample_1_only_groove_convex_inner_1st" : {},
+		"sample_1_only_groove_convex_outer_1st" : {}
+	}
+}

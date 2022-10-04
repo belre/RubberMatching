@@ -1,0 +1,20 @@
+{
+	"reference" : {
+		"filepath" : "tp/shape_org.bmp",
+		"imgpath" : "tp/shape_org.bmp",
+		"roi" : {
+
+		}
+	},
+	"sample" : {
+		"sample_1_org" : {
+        	"resize_rate" : 1.0
+    	},
+		"sample_2_org" : {
+        	"resize_rate" : 1.0
+    	},
+    	"sample_3_org" : {
+        	"resize_rate" : 1.0
+    	}
+	}
+}
